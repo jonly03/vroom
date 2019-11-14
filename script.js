@@ -1,0 +1,1 @@
+$("#opening").css("animation", "flicker 1.5s infinite alternate")

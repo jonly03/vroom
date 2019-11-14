@@ -34,7 +34,7 @@ body {
     top: -1.5em;
 }
 
-.opening {
+#opening {
     text-align: center;
     font-family: 'Exo 2', sans-serif;
     font-style: italic;
@@ -43,7 +43,7 @@ body {
     /* border: 0.4rem solid #fff; */
     border-radius: 2rem;
     text-transform: uppercase;
-    animation: flicker 1.5s infinite alternate;
+    /* animation: flicker 1.5s infinite alternate; */
 }
 
 .ig_link {
@@ -84,7 +84,7 @@ body {
     100% {
 
         text-shadow:
-            -0.2rem -0.2rem 1rem #fff,
+            -0.2rem -0.2rem 0rem #fff,
             0.2rem 0.2rem 1rem #fff,
             0 0 2rem #f40,
             0 0 4rem #f40,
