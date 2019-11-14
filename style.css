@@ -2,10 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Libre+Baskerville&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Bitter&display=swap');
 
-html {
-    height: 100vh;
-}
-
 body {
     display: flex;
     flex-direction: column;
