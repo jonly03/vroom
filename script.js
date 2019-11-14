@@ -1,3 +1,5 @@
-$("#opening").addClass('animate');
-$("#opening").removeClass("animate");
-$("#opening").addClass('animate');
+$(document).ready(() => {
+
+    $("#opening").addClass('animate');
+
+})
