@@ -71,6 +71,10 @@ body {
     font-size: x-large;
 }
 
+.animate {
+    animation: flicker 1.5s infinite alternate;
+}
+
 /* Animate neon flicker */
 @keyframes flicker {
 

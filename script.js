@@ -1,1 +1,3 @@
-$("#opening").css("animation", "flicker 1.5s infinite alternate")
+$("#opening").addClass('animate');
+$("#opening").removeClass("animate");
+$("#opening").addClass('animate');
