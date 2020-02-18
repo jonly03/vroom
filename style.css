@@ -28,6 +28,10 @@ body {
   font-size: large;
 }
 
+.forms_nav {
+  text-align: center;
+}
+
 .outter_container {
   width: 100vw;
   height: 100%;
